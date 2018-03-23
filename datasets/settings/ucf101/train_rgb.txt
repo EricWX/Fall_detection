@@ -1,0 +1,622 @@
+data/Frame/CoffeeRoom1_frame/video_(1)	64	1
+data/Frame/CoffeeRoom1_frame/video_(4)	84	1
+data/Frame/CoffeeRoom1_frame/video_(5)	74	1
+data/Frame/CoffeeRoom1_frame/video_(12)	74	1
+data/Frame/CoffeeRoom1_frame/video_(13)	99	1
+data/Frame/CoffeeRoom1_frame/video_(14)	72	1
+data/Frame/CoffeeRoom1_frame/video_(15)	58	1
+data/Frame/CoffeeRoom1_frame/video_(16)	72	1
+data/Frame/CoffeeRoom1_frame/video_(17)	65	1
+data/Frame/CoffeeRoom1_frame/video_(18)	109	1
+data/Frame/CoffeeRoom1_frame/video_(19)	87	1
+data/Frame/CoffeeRoom1_frame/video_(21)	74	1
+data/Frame/CoffeeRoom1_frame/video_(22)	93	1
+data/Frame/CoffeeRoom1_frame/video_(24)	108	1
+data/Frame/CoffeeRoom1_frame/video_(27)	103	1
+data/Frame/CoffeeRoom1_frame/video_(28)	72	1
+data/Frame/CoffeeRoom1_frame/video_(30)	60	1
+data/Frame/CoffeeRoom1_frame/video_(33)	92	1
+data/Frame/CoffeeRoom1_frame/video_(35)	94	1
+data/Frame/CoffeeRoom1_frame/video_(37)	84	1
+data/Frame/CoffeeRoom1_frame/video_(39)	64	1
+data/Frame/CoffeeRoom1_frame/video_(42)	65	1
+data/Frame/CoffeeRoom1_frame/video_(44)	55	1
+data/Frame/CoffeeRoom1_frame/video_(45)	88	1
+data/Frame/CoffeeRoom2_frame/video_(51)	83	1
+data/Frame/CoffeeRoom2_frame/video_(52)	88	1
+data/Frame/CoffeeRoom2_frame/video_(54)	102	1
+data/Frame/CoffeeRoom2_frame/video_(55)	131	1
+data/Frame/CoffeeRoom2_frame/video_(59)	102	1
+data/Frame/CoffeeRoom2_frame/video_(60)	112	1
+data/Frame/CoffeeRoom2_frame/video_(64)	86	1
+data/Frame/CoffeeRoom2_frame/video_(66)	121	0
+data/Frame/Home1_frame/video_(1)	112	1
+data/Frame/Home1_frame/video_(2)	102	1
+data/Frame/Home1_frame/video_(4)	102	1
+data/Frame/Home1_frame/video_(5)	82	1
+data/Frame/Home1_frame/video_(6)	82	1
+data/Frame/Home1_frame/video_(7)	92	1
+data/Frame/Home1_frame/video_(8)	120	1
+data/Frame/Home1_frame/video_(11)	132	1
+data/Frame/Home1_frame/video_(13)	102	1
+data/Frame/Home1_frame/video_(14)	122	1
+data/Frame/Home1_frame/video_(15)	101	1
+data/Frame/Home1_frame/video_(17)	102	1
+data/Frame/Home1_frame/video_(18)	92	1
+data/Frame/Home1_frame/video_(19)	82	1
+data/Frame/Home1_frame/video_(20)	92	1
+data/Frame/Home1_frame/video_(21)	92	1
+data/Frame/Home1_frame/video_(22)	102	1
+data/Frame/Home1_frame/video_(23)	102	1
+data/Frame/Home1_frame/video_(24)	82	1
+data/Frame/Home1_frame/video_(25)	90	1
+data/Frame/Home1_frame/video_(26)	92	1
+data/Frame/Home1_frame/video_(27)	102	1
+data/Frame/Home1_frame/video_(29)	115	1
+data/Frame/Home1_frame/video_(30)	82	1
+data/Frame/Home2_frame/video_(31)	132	1
+data/Frame/Home2_frame/video_(32)	82	1
+data/Frame/Home2_frame/video_(33)	82	1
+data/Frame/Home2_frame/video_(34)	102	1
+data/Frame/Home2_frame/video_(37)	102	1
+data/Frame/Home2_frame/video_(38)	82	0
+data/Frame/Home2_frame/video_(39)	82	0
+data/Frame/Home2_frame/video_(40)	102	0
+data/Frame/Home2_frame/video_(41)	102	0
+data/Frame/Home2_frame/video_(42)	72	0
+data/Frame/Home2_frame/video_(43)	72	0
+data/Frame/Home2_frame/video_(44)	132	0
+data/Frame/Home2_frame/video_(45)	92	0
+data/Frame/Home2_frame/video_(46)	112	0
+data/Frame/Home2_frame/video_(47)	122	0
+data/Frame/Home2_frame/video_(48)	102	0
+data/Frame/Home2_frame/video_(49)	132	0
+data/Frame/Home2_frame/video_(51)	112	0
+data/Frame/Home2_frame/video_(52)	92	0
+data/Frame/Home2_frame/video_(54)	92	0
+data/Frame/Home2_frame/video_(55)	92	0
+data/Frame/Home2_frame/video_(56)	152	0
+data/Frame/Home2_frame/video_(57)	102	0
+data/Frame/Home2_frame/video_(60)	132	0
+data/Frame/Lecture_room_frame/video_(1)	116	1
+data/Frame/Lecture_room_frame/video_(7)	136	1
+data/Frame/Lecture_room_frame/video_(20)	121	0
+data/Frame/Lecture_room_frame/video_(27)	105	0
+data/Frame/Office_frame/video_(1)	168	1
+data/Frame/Office_frame/video_(2)	105	1
+data/Frame/Office_frame/video_(3)	188	1
+data/Frame/Office_frame/video_(4)	130	1
+data/Frame/Office_frame/video_(5)	97	1
+data/Frame/Office_frame/video_(6)	168	1
+data/Frame/Office_frame/video_(7)	88	1
+data/Frame/Office_frame/video_(8)	169	1
+data/Frame/Office_frame/video_(10)	109	1
+data/Frame/Office_frame/video_(11)	79	1
+data/Frame/Office_frame/video_(12)	121	1
+data/Frame/Office_frame/video_(13)	318	1
+data/Frame/Office_frame/video_(14)	71	1
+data/Frame/Office_frame/video_(16)	173	1
+data/Frame/Office_frame/video_(17)	88	1
+data/Frame/Office_frame/video_(18)	308	0
+data/Frame/Office_frame/video_(19)	133	0
+data/Frame/Office_frame/video_(20)	214	0
+data/Frame/Office_frame/video_(21)	173	0
+data/Frame/Office_frame/video_(22)	90	0
+data/Frame/Office_frame/video_(25)	397	0
+data/Frame/Office_frame/video_(26)	201	0
+data/Frame/Office_frame/video_(27)	326	0
+data/Frame/Office_frame/video_(28)	204	0
+data/Frame/Office_frame/video_(29)	490	0
+data/Frame/Office_frame/video_(31)	83	0
+data/Frame/Office_frame/video_(33)	257	0
+data/Frame/Office2_frame/video_(1)	376	0
+data/Frame/Office2_frame/video_(2)	257	0
+data/Frame/Office2_frame/video_(4)	397	0
+data/Frame/Office2_frame/video_(5)	480	0
+data/Frame/Office2_frame/video_(6)	387	0
+data/Frame/Office2_frame/video_(7)	387	0
+data/Frame/Office2_frame/video_(8)	428	0
+data/Frame/Office2_frame/video_(9)	356	0
+data/Frame/Office2_frame/video_(10)	376	0
+data/Frame/Office2_frame/video_(11)	288	0
+data/Frame/Office2_frame/video_(12)	314	0
+data/Frame/Office2_frame/video_(13)	382	0
+data/Frame/Office2_frame/video_(14)	532	0
+data/Frame/Office2_frame/video_(15)	319	0
+data/Frame/Office2_frame/video_(16)	631	0
+data/Frame/Office2_frame/video_(17)	449	0
+data/Frame/Office2_frame/video_(18)	616	0
+data/Frame/Office2_frame/video_(19)	522	0
+data/Frame/Office2_frame/video_(20)	366	0
+data/Frame/Office2_frame/video_(21)	569	0
+data/Frame/Office2_frame/video_(22)	522	0
+data/Frame/Office2_frame/video_(25)	408	0
+data/Frame/Office2_frame/video_(29)	392	0
+data/Frame/Office2_frame/video_(30)	382	0
+data/Frame/Office2_frame/video_(31)	387	0
+data/Frame/dataset_frame/chute01/cam1	132	1
+data/Frame/dataset_frame/chute01/cam2	132	1
+data/Frame/dataset_frame/chute01/cam3	132	1
+data/Frame/dataset_frame/chute01/cam4	132	1
+data/Frame/dataset_frame/chute01/cam6	132	1
+data/Frame/dataset_frame/chute01/cam7	132	1
+data/Frame/dataset_frame/chute01/cam8	132	1
+data/Frame/dataset_frame/chute02/cam2	72	1
+data/Frame/dataset_frame/chute02/cam3	69	1
+data/Frame/dataset_frame/chute02/cam4	70	1
+data/Frame/dataset_frame/chute02/cam5	70	1
+data/Frame/dataset_frame/chute02/cam7	72	1
+data/Frame/dataset_frame/chute02/cam8	69	1
+data/Frame/dataset_frame/chute03/cam2	80	1
+data/Frame/dataset_frame/chute03/cam3	80	1
+data/Frame/dataset_frame/chute03/cam4	80	1
+data/Frame/dataset_frame/chute03/cam6	81	1
+data/Frame/dataset_frame/chute03/cam7	81	1
+data/Frame/dataset_frame/chute03/cam8	79	1
+data/Frame/dataset_frame/chute04/cam1	89	1
+data/Frame/dataset_frame/chute04/cam2	90	1
+data/Frame/dataset_frame/chute04/cam3	90	1
+data/Frame/dataset_frame/chute04/cam4	83	1
+data/Frame/dataset_frame/chute04/cam5	89	1
+data/Frame/dataset_frame/chute04/cam6	90	1
+data/Frame/dataset_frame/chute04/cam7	90	1
+data/Frame/dataset_frame/chute04/cam8	88	1
+data/Frame/dataset_frame/chute05/cam1	66	1
+data/Frame/dataset_frame/chute05/cam2	66	1
+data/Frame/dataset_frame/chute05/cam3	65	1
+data/Frame/dataset_frame/chute05/cam4	65	1
+data/Frame/dataset_frame/chute05/cam5	66	1
+data/Frame/dataset_frame/chute05/cam7	67	1
+data/Frame/dataset_frame/chute05/cam8	64	1
+data/Frame/dataset_frame/chute06/cam1	106	1
+data/Frame/dataset_frame/chute06/cam3	115	1
+data/Frame/dataset_frame/chute06/cam4	114	1
+data/Frame/dataset_frame/chute06/cam8	114	1
+data/Frame/dataset_frame/chute07/cam1	79	1
+data/Frame/dataset_frame/chute07/cam3	78	1
+data/Frame/dataset_frame/chute07/cam4	77	1
+data/Frame/dataset_frame/chute07/cam5	77	1
+data/Frame/dataset_frame/chute07/cam7	78	1
+data/Frame/dataset_frame/chute07/cam8	78	1
+data/Frame/dataset_frame/chute08/cam1	61	1
+data/Frame/dataset_frame/chute08/cam2	60	1
+data/Frame/dataset_frame/chute08/cam3	53	1
+data/Frame/dataset_frame/chute08/cam4	60	1
+data/Frame/dataset_frame/chute08/cam6	60	1
+data/Frame/dataset_frame/chute08/cam7	60	1
+data/Frame/dataset_frame/chute08/cam8	58	1
+data/Frame/dataset_frame/chute09/cam1	79	1
+data/Frame/dataset_frame/chute09/cam2	79	1
+data/Frame/dataset_frame/chute09/cam3	78	1
+data/Frame/dataset_frame/chute09/cam4	80	1
+data/Frame/dataset_frame/chute09/cam5	79	1
+data/Frame/dataset_frame/chute09/cam6	79	1
+data/Frame/dataset_frame/chute09/cam7	79	1
+data/Frame/dataset_frame/chute09/cam8	78	1
+data/Frame/dataset_frame/chute10/cam1	80	1
+data/Frame/dataset_frame/chute10/cam2	80	1
+data/Frame/dataset_frame/chute10/cam3	81	1
+data/Frame/dataset_frame/chute10/cam4	82	1
+data/Frame/dataset_frame/chute10/cam5	80	1
+data/Frame/dataset_frame/chute10/cam6	81	1
+data/Frame/dataset_frame/chute10/cam7	81	1
+data/Frame/dataset_frame/chute10/cam8	79	1
+data/Frame/dataset_frame/chute11/cam2	69	1
+data/Frame/dataset_frame/chute11/cam3	70	1
+data/Frame/dataset_frame/chute11/cam4	69	1
+data/Frame/dataset_frame/chute11/cam5	68	1
+data/Frame/dataset_frame/chute11/cam8	69	1
+data/Frame/dataset_frame/chute12/cam1	80	1
+data/Frame/dataset_frame/chute12/cam2	79	1
+data/Frame/dataset_frame/chute12/cam5	78	1
+data/Frame/dataset_frame/chute12/cam6	78	1
+data/Frame/dataset_frame/chute12/cam7	79	1
+data/Frame/dataset_frame/chute12/cam8	78	1
+data/Frame/dataset_frame/chute13/cam1	102	1
+data/Frame/dataset_frame/chute13/cam2	104	1
+data/Frame/dataset_frame/chute13/cam3	101	1
+data/Frame/dataset_frame/chute13/cam4	101	1
+data/Frame/dataset_frame/chute13/cam5	103	1
+data/Frame/dataset_frame/chute13/cam6	103	1
+data/Frame/dataset_frame/chute13/cam7	104	1
+data/Frame/dataset_frame/chute13/cam8	102	1
+data/Frame/dataset_frame/chute18/cam1	85	1
+data/Frame/dataset_frame/chute18/cam2	86	1
+data/Frame/dataset_frame/chute18/cam4	77	1
+data/Frame/dataset_frame/chute18/cam5	84	1
+data/Frame/dataset_frame/chute18/cam6	86	1
+data/Frame/dataset_frame/chute18/cam7	86	1
+data/Frame/dataset_frame/chute18/cam8	83	1
+data/Frame/dataset_frame/chute19/cam1	86	1
+data/Frame/dataset_frame/chute19/cam3	86	1
+data/Frame/dataset_frame/chute19/cam4	86	1
+data/Frame/dataset_frame/chute19/cam5	85	1
+data/Frame/dataset_frame/chute19/cam6	87	1
+data/Frame/dataset_frame/chute19/cam7	85	1
+data/Frame/dataset_frame/chute20/cam1	86	1
+data/Frame/dataset_frame/chute20/cam2	84	1
+data/Frame/dataset_frame/chute20/cam4	84	1
+data/Frame/dataset_frame/chute20/cam5	84	1
+data/Frame/dataset_frame/chute20/cam6	84	1
+data/Frame/dataset_frame/chute20/cam7	84	1
+data/Frame/dataset_frame/chute21/cam2	103	1
+data/Frame/dataset_frame/chute21/cam3	102	1
+data/Frame/dataset_frame/chute21/cam4	101	1
+data/Frame/dataset_frame/chute21/cam5	101	1
+data/Frame/dataset_frame/chute21/cam7	103	1
+data/Frame/dataset_frame/chute21/cam8	101	1
+data/Frame/dataset_frame/chute22/cam1	94	1
+data/Frame/dataset_frame/chute22/cam2	98	1
+data/Frame/dataset_frame/chute22/cam3	98	1
+data/Frame/dataset_frame/chute22/cam5	99	1
+data/Frame/dataset_frame/chute22/cam6	98	1
+data/Frame/dataset_frame/chute22/cam7	98	1
+data/Frame/dataset_frame/chute22/cam8	97	1
+data/Frame/UR_Adl_frame/adl01	52	0
+data/Frame/UR_Adl_frame/adl02	62	0
+data/Frame/UR_Adl_frame/adl03	62	0
+data/Frame/UR_Adl_frame/adl04	52	0
+data/Frame/UR_Adl_frame/adl05	62	0
+data/Frame/UR_Adl_frame/adl07	62	0
+data/Frame/UR_Adl_frame/adl08	62	0
+data/Frame/UR_Adl_frame/adl09	52	0
+data/Frame/UR_Adl_frame/adl11	102	0
+data/Frame/UR_Adl_frame/adl12	85	0
+data/Frame/UR_Adl_frame/adl13	90	0
+data/Frame/UR_Adl_frame/adl14	80	0
+data/Frame/UR_Adl_frame/adl15	93	0
+data/Frame/UR_Adl_frame/adl16	82	0
+data/Frame/UR_Adl_frame/adl17	78	0
+data/Frame/UR_Adl_frame/adl18	90	0
+data/Frame/UR_Adl_frame/adl20	92	0
+data/Frame/UR_Adl_frame/adl21	95	0
+data/Frame/UR_Adl_frame/adl22	82	0
+data/Frame/UR_Adl_frame/adl23	75	0
+data/Frame/UR_Adl_frame/adl24	25	0
+data/Frame/UR_Adl_frame/adl26	33	0
+data/Frame/UR_Adl_frame/adl28	30	0
+data/Frame/UR_Adl_frame/adl29	43	0
+data/Frame/UR_Adl_frame/adl30	135	0
+data/Frame/UR_Adl_frame/adl31	85	0
+data/Frame/UR_Adl_frame/adl32	68	0
+data/Frame/UR_Adl_frame/adl33	68	0
+data/Frame/UR_Adl_frame/adl35	95	0
+data/Frame/UR_Adl_frame/adl37	118	0
+data/Frame/UR_Adl_frame/adl38	117	0
+data/Frame/UR_Adl_frame/adl40	112	0
+data/Frame/UR_Fall_frame/fall01	55	1
+data/Frame/UR_Fall_frame/fall02	38	1
+data/Frame/UR_Fall_frame/fall03	73	1
+data/Frame/UR_Fall_frame/fall04	34	1
+data/Frame/UR_Fall_frame/fall06	35	1
+data/Frame/UR_Fall_frame/fall07	54	1
+data/Frame/UR_Fall_frame/fall08	32	1
+data/Frame/UR_Fall_frame/fall09	63	1
+data/Frame/UR_Fall_frame/fall10	45	1
+data/Frame/UR_Fall_frame/fall11	45	1
+data/Frame/UR_Fall_frame/fall14	22	1
+data/Frame/UR_Fall_frame/fall15	25	1
+data/Frame/UR_Fall_frame/fall16	20	1
+data/Frame/UR_Fall_frame/fall18	23	1
+data/Frame/UR_Fall_frame/fall21	20	1
+data/Frame/UR_Fall_frame/fall22	20	1
+data/Frame/UR_Fall_frame/fall23	27	1
+data/Frame/UR_Fall_frame/fall24	22	1
+data/Frame/UR_Fall_frame/fall25	30	1
+data/Frame/UR_Fall_frame/fall26	22	1
+data/Frame/UR_Fall_frame/fall27	32	1
+data/Frame/UR_Fall_frame/fall28	24	1
+data/Frame/UR_Fall_frame/fall29	35	1
+data/Frame/UR_Fall_frame/fall30	25	1
+data/Frame/data_new_frame/chute14/cam1_Segment_1	63	0
+data/Frame/data_new_frame/chute14/cam1_Segment_2	63	1
+data/Frame/data_new_frame/chute14/cam2_Segment_1	63	0
+data/Frame/data_new_frame/chute14/cam2_Segment_2	63	1
+data/Frame/data_new_frame/chute14/cam3_Segment_2	63	1
+data/Frame/data_new_frame/chute14/cam4_Segment_1	63	0
+data/Frame/data_new_frame/chute14/cam4_Segment_2	63	1
+data/Frame/data_new_frame/chute14/cam5_Segment_1	63	0
+data/Frame/data_new_frame/chute14/cam5_Segment_2	63	1
+data/Frame/data_new_frame/chute14/cam7_Segment_1	63	0
+data/Frame/data_new_frame/chute14/cam7_Segment_2	63	1
+data/Frame/data_new_frame/chute14/cam8_Segment_2	63	1
+data/Frame/data_new_frame/chute15/cam1_Segment_1	43	0
+data/Frame/data_new_frame/chute15/cam1_Segment_2	53	1
+data/Frame/data_new_frame/chute15/cam2_Segment_1	43	0
+data/Frame/data_new_frame/chute15/cam2_Segment_2	53	1
+data/Frame/data_new_frame/chute15/cam3_Segment_1	43	0
+data/Frame/data_new_frame/chute15/cam3_Segment_2	53	1
+data/Frame/data_new_frame/chute15/cam4_Segment_1	43	0
+data/Frame/data_new_frame/chute15/cam4_Segment_2	53	1
+data/Frame/data_new_frame/chute15/cam5_Segment_1	43	0
+data/Frame/data_new_frame/chute15/cam5_Segment_2	53	1
+data/Frame/data_new_frame/chute15/cam6_Segment_2	53	1
+data/Frame/data_new_frame/chute15/cam7_Segment_1	43	0
+data/Frame/data_new_frame/chute15/cam7_Segment_2	53	1
+data/Frame/data_new_frame/chute15/cam8_Segment_2	43	1
+data/Frame/data_new_frame/chute16/cam1_Segment_1	63	0
+data/Frame/data_new_frame/chute16/cam1_Segment_2	43	1
+data/Frame/data_new_frame/chute16/cam2_Segment_2	43	1
+data/Frame/data_new_frame/chute16/cam3_Segment_1	63	0
+data/Frame/data_new_frame/chute16/cam3_Segment_2	43	1
+data/Frame/data_new_frame/chute16/cam4_Segment_2	43	1
+data/Frame/data_new_frame/chute16/cam5_Segment_1	63	0
+data/Frame/data_new_frame/chute16/cam5_Segment_2	43	1
+data/Frame/data_new_frame/chute16/cam6_Segment_2	43	1
+data/Frame/data_new_frame/chute16/cam7_Segment_2	43	1
+data/Frame/data_new_frame/chute16/cam8_Segment_2	43	1
+data/Frame/data_new_frame/chute17/cam1_Segment_1	43	0
+data/Frame/data_new_frame/chute17/cam1_Segment_2	83	1
+data/Frame/data_new_frame/chute17/cam2_Segment_1	43	0
+data/Frame/data_new_frame/chute17/cam2_Segment_2	83	1
+data/Frame/data_new_frame/chute17/cam3_Segment_1	43	0
+data/Frame/data_new_frame/chute17/cam4_Segment_1	43	0
+data/Frame/data_new_frame/chute17/cam4_Segment_2	83	1
+data/Frame/data_new_frame/chute17/cam5_Segment_1	43	0
+data/Frame/data_new_frame/chute17/cam6_Segment_1	43	0
+data/Frame/data_new_frame/chute17/cam6_Segment_2	83	1
+data/Frame/data_new_frame/chute17/cam7_Segment_1	43	0
+data/Frame/data_new_frame/chute17/cam7_Segment_2	73	1
+data/Frame/data_new_frame/chute17/cam8_Segment_1	43	0
+data/Frame/data_new_frame/chute23_cam1/cam1_Segment_1	33	0
+data/Frame/data_new_frame/chute23_cam1/cam1_Segment_2	43	0
+data/Frame/data_new_frame/chute23_cam1/cam1_Segment_4	53	1
+data/Frame/data_new_frame/chute23_cam1/cam1_Segment_6	43	0
+data/Frame/data_new_frame/chute23_cam1/cam1_Segment_8	33	0
+data/Frame/data_new_frame/chute23_cam1/cam1_Segment_9	63	0
+data/Frame/data_new_frame/chute23_cam1/cam1_Segment_10	43	0
+data/Frame/data_new_frame/chute23_cam2/cam2_Segment_1	33	0
+data/Frame/data_new_frame/chute23_cam2/cam2_Segment_2	43	0
+data/Frame/data_new_frame/chute23_cam2/cam2_Segment_3	43	0
+data/Frame/data_new_frame/chute23_cam2/cam2_Segment_4	53	1
+data/Frame/data_new_frame/chute23_cam2/cam2_Segment_5	53	0
+data/Frame/data_new_frame/chute23_cam2/cam2_Segment_6	43	0
+data/Frame/data_new_frame/chute23_cam2/cam2_Segment_7	63	1
+data/Frame/data_new_frame/chute23_cam2/cam2_Segment_8	33	0
+data/Frame/data_new_frame/chute23_cam2/cam2_Segment_9	63	0
+data/Frame/data_new_frame/chute23_cam3/cam3_Segment_2	43	0
+data/Frame/data_new_frame/chute23_cam3/cam3_Segment_3	43	0
+data/Frame/data_new_frame/chute23_cam3/cam3_Segment_4	53	1
+data/Frame/data_new_frame/chute23_cam3/cam3_Segment_5	53	0
+data/Frame/data_new_frame/chute23_cam3/cam3_Segment_6	43	0
+data/Frame/data_new_frame/chute23_cam3/cam3_Segment_7	63	1
+data/Frame/data_new_frame/chute23_cam3/cam3_Segment_8	33	0
+data/Frame/data_new_frame/chute23_cam3/cam3_Segment_9	63	0
+data/Frame/data_new_frame/chute23_cam3/cam3_Segment_10	43	0
+data/Frame/data_new_frame/chute23_cam4/cam4_Segment_1	33	0
+data/Frame/data_new_frame/chute23_cam4/cam4_Segment_3	43	0
+data/Frame/data_new_frame/chute23_cam4/cam4_Segment_4	53	1
+data/Frame/data_new_frame/chute23_cam4/cam4_Segment_5	53	0
+data/Frame/data_new_frame/chute23_cam4/cam4_Segment_6	43	0
+data/Frame/data_new_frame/chute23_cam4/cam4_Segment_7	63	1
+data/Frame/data_new_frame/chute23_cam4/cam4_Segment_8	33	0
+data/Frame/data_new_frame/chute23_cam4/cam4_Segment_9	63	0
+data/Frame/data_new_frame/chute23_cam4/cam4_Segment_10	43	0
+data/Frame/data_new_frame/chute23_cam5/cam5_Segment_1	33	0
+data/Frame/data_new_frame/chute23_cam5/cam5_Segment_3	43	0
+data/Frame/data_new_frame/chute23_cam5/cam5_Segment_4	53	1
+data/Frame/data_new_frame/chute23_cam5/cam5_Segment_5	53	0
+data/Frame/data_new_frame/chute23_cam5/cam5_Segment_6	43	0
+data/Frame/data_new_frame/chute23_cam5/cam5_Segment_7	63	1
+data/Frame/data_new_frame/chute23_cam5/cam5_Segment_8	33	0
+data/Frame/data_new_frame/chute23_cam5/cam5_Segment_9	63	0
+data/Frame/data_new_frame/chute23_cam5/cam5_Segment_10	53	0
+data/Frame/data_new_frame/chute23_cam6/cam6_Segment_1	33	0
+data/Frame/data_new_frame/chute23_cam6/cam6_Segment_4	53	1
+data/Frame/data_new_frame/chute23_cam6/cam6_Segment_5	53	0
+data/Frame/data_new_frame/chute23_cam6/cam6_Segment_6	43	0
+data/Frame/data_new_frame/chute23_cam6/cam6_Segment_7	63	1
+data/Frame/data_new_frame/chute23_cam6/cam6_Segment_8	33	0
+data/Frame/data_new_frame/chute23_cam6/cam6_Segment_9	63	0
+data/Frame/data_new_frame/chute23_cam6/cam6_Segment_10	53	0
+data/Frame/data_new_frame/chute23_cam7/cam7_Segment_1	33	0
+data/Frame/data_new_frame/chute23_cam7/cam7_Segment_2	43	0
+data/Frame/data_new_frame/chute23_cam7/cam7_Segment_3	43	0
+data/Frame/data_new_frame/chute23_cam7/cam7_Segment_4	53	1
+data/Frame/data_new_frame/chute23_cam7/cam7_Segment_5	53	0
+data/Frame/data_new_frame/chute23_cam7/cam7_Segment_7	63	1
+data/Frame/data_new_frame/chute23_cam7/cam7_Segment_8	33	0
+data/Frame/data_new_frame/chute23_cam7/cam7_Segment_9	63	0
+data/Frame/data_new_frame/chute23_cam7/cam7_Segment_10	53	0
+data/Frame/data_new_frame/chute23_cam8/cam8_Segment_1	33	0
+data/Frame/data_new_frame/chute23_cam8/cam8_Segment_2	43	0
+data/Frame/data_new_frame/chute23_cam8/cam8_Segment_4	53	1
+data/Frame/data_new_frame/chute23_cam8/cam8_Segment_5	53	0
+data/Frame/data_new_frame/chute23_cam8/cam8_Segment_7	63	1
+data/Frame/data_new_frame/chute23_cam8/cam8_Segment_8	33	0
+data/Frame/data_new_frame/chute23_cam8/cam8_Segment_9	63	0
+data/Frame/data_new_frame/chute24_cam1/cam1_Segment_1	43	0
+data/Frame/data_new_frame/chute24_cam1/cam1_Segment_2	33	0
+data/Frame/data_new_frame/chute24_cam1/cam1_Segment_3	53	0
+data/Frame/data_new_frame/chute24_cam1/cam1_Segment_4	43	0
+data/Frame/data_new_frame/chute24_cam1/cam1_Segment_5	53	0
+data/Frame/data_new_frame/chute24_cam1/cam1_Segment_6	43	0
+data/Frame/data_new_frame/chute24_cam1/cam1_Segment_7	53	0
+data/Frame/data_new_frame/chute24_cam2/cam2_Segment_1	43	0
+data/Frame/data_new_frame/chute24_cam2/cam2_Segment_2	33	0
+data/Frame/data_new_frame/chute24_cam2/cam2_Segment_5	53	0
+data/Frame/data_new_frame/chute24_cam3/cam3_Segment_2	33	0
+data/Frame/data_new_frame/chute24_cam3/cam3_Segment_3	53	0
+data/Frame/data_new_frame/chute24_cam3/cam3_Segment_5	53	0
+data/Frame/data_new_frame/chute24_cam3/cam3_Segment_7	53	0
+data/Frame/data_new_frame/chute24_cam4/cam4_Segment_1	43	0
+data/Frame/data_new_frame/chute24_cam4/cam4_Segment_2	33	0
+data/Frame/data_new_frame/chute24_cam4/cam4_Segment_3	53	0
+data/Frame/data_new_frame/chute24_cam4/cam4_Segment_4	43	0
+data/Frame/data_new_frame/chute24_cam4/cam4_Segment_6	43	0
+data/Frame/data_new_frame/chute24_cam4/cam4_Segment_7	53	0
+data/Frame/data_new_frame/chute24_cam5/cam5_Segment_1	43	0
+data/Frame/data_new_frame/chute24_cam5/cam5_Segment_3	53	0
+data/Frame/data_new_frame/chute24_cam5/cam5_Segment_4	43	0
+data/Frame/data_new_frame/chute24_cam5/cam5_Segment_5	53	0
+data/Frame/data_new_frame/chute24_cam5/cam5_Segment_6	43	0
+data/Frame/data_new_frame/chute24_cam5/cam5_Segment_7	53	0
+data/Frame/data_new_frame/chute24_cam6/cam6_Segment_1	43	0
+data/Frame/data_new_frame/chute24_cam6/cam6_Segment_2	33	0
+data/Frame/data_new_frame/chute24_cam6/cam6_Segment_4	43	0
+data/Frame/data_new_frame/chute24_cam6/cam6_Segment_7	53	0
+data/Frame/data_new_frame/chute24_cam7/cam7_Segment_1	43	0
+data/Frame/data_new_frame/chute24_cam7/cam7_Segment_2	33	0
+data/Frame/data_new_frame/chute24_cam7/cam7_Segment_3	53	0
+data/Frame/data_new_frame/chute24_cam7/cam7_Segment_4	43	0
+data/Frame/data_new_frame/chute24_cam7/cam7_Segment_5	53	0
+data/Frame/data_new_frame/chute24_cam7/cam7_Segment_6	43	0
+data/Frame/data_new_frame/chute24_cam7/cam7_Segment_7	53	0
+data/Frame/data_new_frame/chute24_cam8/cam8_Segment_1	43	0
+data/Frame/data_new_frame/chute24_cam8/cam8_Segment_2	33	0
+data/Frame/data_new_frame/chute24_cam8/cam8_Segment_4	43	0
+data/Frame/data_new_frame/chute24_cam8/cam8_Segment_5	53	0
+data/Frame/data_new_frame/chute24_cam8/cam8_Segment_6	43	0
+data/Frame/data_new_frame/chute24_cam8/cam8_Segment_7	43	0
+data/Frame/coffee1_new_frame/video_(2)_Segment_1	52	0
+data/Frame/coffee1_new_frame/video_(2)_Segment_2	73	1
+data/Frame/coffee1_new_frame/video_(3)_Segment_1	62	0
+data/Frame/coffee1_new_frame/video_(3)_Segment_2	62	1
+data/Frame/coffee1_new_frame/video_(10)_Segment_1	72	0
+data/Frame/coffee1_new_frame/video_(10)_Segment_2	72	1
+data/Frame/coffee1_new_frame/video_(11)_Segment_1	63	0
+data/Frame/coffee1_new_frame/video_(11)_Segment_2	53	0
+data/Frame/coffee1_new_frame/video_(11)_Segment_3	82	1
+data/Frame/coffee1_new_frame/video_(20)_Segment_1	72	0
+data/Frame/coffee1_new_frame/video_(20)_Segment_2	42	0
+data/Frame/coffee1_new_frame/video_(20)_Segment_3	62	1
+data/Frame/coffee1_new_frame/video_(23)_Segment_1	72	0
+data/Frame/coffee1_new_frame/video_(23)_Segment_2	52	1
+data/Frame/coffee1_new_frame/video_(29)_Segment_1	72	0
+data/Frame/coffee1_new_frame/video_(29)_Segment_2	62	1
+data/Frame/coffee1_new_frame/video_(32)_Segment_1	62	0
+data/Frame/coffee1_new_frame/video_(32)_Segment_2	62	1
+data/Frame/coffee1_new_frame/video_(34)_Segment_1	72	0
+data/Frame/coffee1_new_frame/video_(34)_Segment_2	93	1
+data/Frame/coffee1_new_frame/video_(36)_Segment_1	62	0
+data/Frame/coffee1_new_frame/video_(36)_Segment_2	62	0
+data/Frame/coffee1_new_frame/video_(36)_Segment_3	72	0
+data/Frame/coffee1_new_frame/video_(36)_Segment_4	93	0
+data/Frame/coffee1_new_frame/video_(36)_Segment_5	62	0
+data/Frame/coffee1_new_frame/video_(36)_Segment_6	52	0
+data/Frame/coffee1_new_frame/video_(36)_Segment_7	102	1
+data/Frame/coffee1_new_frame/video_(38)_Segment_1	62	0
+data/Frame/coffee1_new_frame/video_(38)_Segment_2	82	1
+data/Frame/coffee1_new_frame/video_(40)_Segment_1	72	0
+data/Frame/coffee1_new_frame/video_(40)_Segment_2	72	1
+data/Frame/coffee1_new_frame/video_(41)_Segment_1	72	0
+data/Frame/coffee1_new_frame/video_(41)_Segment_2	83	1
+data/Frame/coffee1_new_frame/video_(43)_Segment_1	62	0
+data/Frame/coffee1_new_frame/video_(43)_Segment_2	62	0
+data/Frame/coffee1_new_frame/video_(43)_Segment_3	83	0
+data/Frame/coffee2_new_frame/video_(49)_Segment_1	72	0
+data/Frame/coffee2_new_frame/video_(49)_Segment_2	122	1
+data/Frame/coffee2_new_frame/video_(50)_Segment_2	72	0
+data/Frame/coffee2_new_frame/video_(50)_Segment_4	112	0
+data/Frame/coffee2_new_frame/video_(50)_Segment_5	153	0
+data/Frame/coffee2_new_frame/video_(50)_Segment_8	72	0
+data/Frame/coffee2_new_frame/video_(53)_Segment_1	83	0
+data/Frame/coffee2_new_frame/video_(53)_Segment_2	72	1
+data/Frame/coffee2_new_frame/video_(56)_Segment_1	83	0
+data/Frame/coffee2_new_frame/video_(56)_Segment_2	92	1
+data/Frame/coffee2_new_frame/video_(57)_Segment_1	63	0
+data/Frame/coffee2_new_frame/video_(57)_Segment_2	73	0
+data/Frame/coffee2_new_frame/video_(57)_Segment_3	93	1
+data/Frame/coffee2_new_frame/video_(58)_Segment_1	53	0
+data/Frame/coffee2_new_frame/video_(58)_Segment_2	72	1
+data/Frame/coffee2_new_frame/video_(61)_Segment_1	83	0
+data/Frame/coffee2_new_frame/video_(61)_Segment_3	92	0
+data/Frame/coffee2_new_frame/video_(61)_Segment_4	72	0
+data/Frame/coffee2_new_frame/video_(61)_Segment_5	82	0
+data/Frame/coffee2_new_frame/video_(61)_Segment_6	72	0
+data/Frame/coffee2_new_frame/video_(61)_Segment_7	52	0
+data/Frame/coffee2_new_frame/video_(63)_Segment_1	82	0
+data/Frame/coffee2_new_frame/video_(63)_Segment_2	82	0
+data/Frame/coffee2_new_frame/video_(63)_Segment_3	73	0
+data/Frame/coffee2_new_frame/video_(65)_Segment_1	93	0
+data/Frame/coffee2_new_frame/video_(65)_Segment_3	82	0
+data/Frame/coffee2_new_frame/video_(65)_Segment_4	52	0
+data/Frame/coffee2_new_frame/video_(67)_Segment_1	63	0
+data/Frame/coffee2_new_frame/video_(67)_Segment_2	73	0
+data/Frame/coffee2_new_frame/video_(68)_Segment_1	63	0
+data/Frame/coffee2_new_frame/video_(68)_Segment_2	83	0
+data/Frame/coffee2_new_frame/video_(68)_Segment_3	73	0
+data/Frame/coffee2_new_frame/video_(68)_Segment_4	73	0
+data/Frame/coffee2_new_frame/video_(68)_Segment_5	63	0
+data/Frame/coffee2_new_frame/video_(68)_Segment_6	72	0
+data/Frame/coffee2_new_frame/video_(68)_Segment_7	93	0
+data/Frame/coffee2_new_frame/video_(68)_Segment_9	72	0
+data/Frame/coffee2_new_frame/video_(69)_Segment_1	103	0
+data/Frame/coffee2_new_frame/video_(69)_Segment_3	92	0
+data/Frame/coffee2_new_frame/video_(69)_Segment_4	53	0
+data/Frame/coffee2_new_frame/video_(69)_Segment_5	82	0
+data/Frame/coffee2_new_frame/video_(69)_Segment_6	102	0
+data/Frame/coffee2_new_frame/video_(70)_Segment_1	63	0
+data/Frame/coffee2_new_frame/video_(70)_Segment_2	93	0
+data/Frame/coffee2_new_frame/video_(70)_Segment_3	92	0
+data/Frame/coffee2_new_frame/video_(70)_Segment_4	43	0
+data/Frame/Lecture_new_frame/video_(2)_Segment_1	93	0
+data/Frame/Lecture_new_frame/video_(2)_Segment_2	53	0
+data/Frame/Lecture_new_frame/video_(2)_Segment_3	63	1
+data/Frame/Lecture_new_frame/video_(3)_Segment_2	93	0
+data/Frame/Lecture_new_frame/video_(3)_Segment_3	73	1
+data/Frame/Lecture_new_frame/video_(5)_Segment_2	63	1
+data/Frame/Lecture_new_frame/video_(8)_Segment_1	73	0
+data/Frame/Lecture_new_frame/video_(8)_Segment_2	73	0
+data/Frame/Lecture_new_frame/video_(8)_Segment_3	73	0
+data/Frame/Lecture_new_frame/video_(8)_Segment_4	83	1
+data/Frame/Lecture_new_frame/video_(9)_Segment_1	83	0
+data/Frame/Lecture_new_frame/video_(9)_Segment_2	93	0
+data/Frame/Lecture_new_frame/video_(9)_Segment_3	83	0
+data/Frame/Lecture_new_frame/video_(9)_Segment_5	83	1
+data/Frame/Lecture_new_frame/video_(10)_Segment_1	63	0
+data/Frame/Lecture_new_frame/video_(10)_Segment_2	63	0
+data/Frame/Lecture_new_frame/video_(10)_Segment_3	73	1
+data/Frame/Lecture_new_frame/video_(11)_Segment_1	73	0
+data/Frame/Lecture_new_frame/video_(11)_Segment_2	73	1
+data/Frame/Lecture_new_frame/video_(12)_Segment_1	73	0
+data/Frame/Lecture_new_frame/video_(12)_Segment_2	73	0
+data/Frame/Lecture_new_frame/video_(12)_Segment_3	83	0
+data/Frame/Lecture_new_frame/video_(12)_Segment_4	62	1
+data/Frame/Lecture_new_frame/video_(13)_Segment_1	103	0
+data/Frame/Lecture_new_frame/video_(14)_Segment_1	83	0
+data/Frame/Lecture_new_frame/video_(14)_Segment_2	43	0
+data/Frame/Lecture_new_frame/video_(14)_Segment_3	63	1
+data/Frame/Lecture_new_frame/video_(15)_Segment_1	83	0
+data/Frame/Lecture_new_frame/video_(15)_Segment_2	63	0
+data/Frame/Lecture_new_frame/video_(15)_Segment_4	53	0
+data/Frame/Lecture_new_frame/video_(16)_Segment_2	53	0
+data/Frame/Lecture_new_frame/video_(16)_Segment_3	63	0
+data/Frame/Lecture_new_frame/video_(16)_Segment_4	73	0
+data/Frame/Lecture_new_frame/video_(16)_Segment_6	33	0
+data/Frame/Lecture_new_frame/video_(17)_Segment_1	93	0
+data/Frame/Lecture_new_frame/video_(17)_Segment_3	53	0
+data/Frame/Lecture_new_frame/video_(18)_Segment_1	83	0
+data/Frame/Lecture_new_frame/video_(18)_Segment_2	73	0
+data/Frame/Lecture_new_frame/video_(18)_Segment_3	143	0
+data/Frame/Lecture_new_frame/video_(18)_Segment_4	83	0
+data/Frame/Lecture_new_frame/video_(18)_Segment_5	53	0
+data/Frame/Lecture_new_frame/video_(19)_Segment_1	73	0
+data/Frame/Lecture_new_frame/video_(19)_Segment_2	53	0
+data/Frame/Lecture_new_frame/video_(19)_Segment_3	103	0
+data/Frame/Lecture_new_frame/video_(21)_Segment_1	93	0
+data/Frame/Lecture_new_frame/video_(21)_Segment_2	73	0
+data/Frame/Lecture_new_frame/video_(21)_Segment_3	73	0
+data/Frame/Lecture_new_frame/video_(21)_Segment_4	63	0
+data/Frame/Lecture_new_frame/video_(21)_Segment_5	73	0
+data/Frame/Lecture_new_frame/video_(22)_Segment_1	83	0
+data/Frame/Lecture_new_frame/video_(22)_Segment_2	83	0
+data/Frame/Lecture_new_frame/video_(22)_Segment_3	93	0
+data/Frame/Lecture_new_frame/video_(22)_Segment_4	73	0
+data/Frame/Lecture_new_frame/video_(22)_Segment_5	83	0
+data/Frame/Lecture_new_frame/video_(23)_Segment_1	73	0
+data/Frame/Lecture_new_frame/video_(23)_Segment_2	83	0
+data/Frame/Lecture_new_frame/video_(24)_Segment_1	83	0
+data/Frame/Lecture_new_frame/video_(24)_Segment_2	133	0
+data/Frame/Lecture_new_frame/video_(24)_Segment_3	63	0
+data/Frame/Lecture_new_frame/video_(24)_Segment_4	63	0
+data/Frame/Lecture_new_frame/video_(24)_Segment_5	63	0
+data/Frame/Lecture_new_frame/video_(24)_Segment_6	63	0
+data/Frame/Lecture_new_frame/video_(25)_Segment_1	73	0
+data/Frame/Lecture_new_frame/video_(25)_Segment_2	82	0
+data/Frame/Lecture_new_frame/video_(26)_Segment_2	83	0
+data/Frame/Lecture_new_frame/video_(26)_Segment_3	73	0
+data/Frame/Lecture_new_frame/video_(26)_Segment_4	83	0
+data/Frame/Lecture_new_frame/video_(26)_Segment_5	83	0
+data/Frame/Lecture_new_frame/video_(26)_Segment_6	123	0
+data/Frame/Lecture_new_frame/video_(26)_Segment_7	73	0
